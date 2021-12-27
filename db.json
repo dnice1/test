@@ -1,0 +1,100 @@
+{
+  "data": {
+    "direction": "rtl",
+    "title": "נמר",
+    "name": "אסטבן פרננדה",
+    "phone": "0509090909",
+    "email": "String",
+    "waze": "String",
+    "codeHtml": "String",
+    "other": "String",
+    "colors": {
+      "glassColor": "#fff8e8",
+      "accentColor": "#228b8b",
+      "contentTextColor": "#000000",
+      "faqTextColor": "#ffffff",
+      "bgColor": "#000000"
+    },
+    "Qa": {
+      "isActive": "String",
+      "faqData": [
+        {
+          "question": "מי אתם?",
+          "answer": "לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית ליבם סולגק.בראיט ולחת צורק מונחף, בגורמי מגמש. תרבנך וסתעד לכנו סתשם השמה - לתכי מורגם בורק?לתיג ישבעס. קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם."
+        },
+        {
+          "question": "איפה אנחנו? מה אתם?",
+          "answer": "לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית ליבם סולגק.בראיט ולחת צורק מונחף, בגורמי מגמש. תרבנך וסתעד לכנו סתשם השמה - לתכי מורגם בורק?לתיג ישבעס. קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם."
+        },
+        {
+          "question": "מתי ואיפה?",
+          "answer": "לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית ליבם סולגק.בראיט ולחת צורק מונחף, בגורמי מגמש. תרבנך וסתעד לכנו סתשם השמה - לתכי מורגם בורק?לתיג ישבעס. קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם."
+        },
+        {
+          "question": "כמה ולמה?",
+          "answer": "לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית ליבם סולגק.בראיט ולחת צורק מונחף, בגורמי מגמש. תרבנך וסתעד לכנו סתשם השמה - לתכי מורגם בורק?לתיג ישבעס. קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם."
+        }
+      ]
+    },
+    "gallery": {
+      "isActive": "String",
+      "images": [
+        {
+          "imgSrc": "https://i.imgur.com/ucHvb8v.jpg",
+          "url": "",
+          "text": "מוצר ראשון"
+        },
+        {
+          "imgSrc": "https://i.imgur.com/tyMC1ct.jpg",
+          "url": "",
+          "text": "מוצר שני"
+        },
+        {
+          "imgSrc": "https://i.imgur.com/bK7vnAY.jpg",
+          "url": "",
+          "text": "מוצר שלישי"
+        },
+        {
+          "imgSrc": "https://i.imgur.com/ReCn3hn.jpg",
+          "url": "",
+          "text": "מוצר רביעי"
+        }
+      ]
+    },
+
+    "images": {
+      "topBannerImg": "https://i.imgur.com/75dftq0.png",
+      "profileImg": "https://i.imgur.com/nk1x1N9.png",
+      "bgImg": "https://i.imgur.com/eoRibwP.jpg"
+    },
+    "mainContent": {
+      "isActive": "String",
+      "title": "כותרת ראשית",
+      "text": "לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית ליבם סולגק.<br />בראיט ולחת צורק מונחף, בגורמי מגמש. תרבנך וסתעד לכנו סתשם השמה - לתכי מורגם בורק? <br /> לתיג ישבעס. קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם.</br></br><iframe title=\"googleNav\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3369.3339699458675!2d34.864949716030644!3d32.38340811125582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d15429706165d%3A0xc0f72419b38b5b31!2z15LXldec15PXlCDXkNedINeU15PXqNeaINeR15nXqiDXmdeg15DXmQ!5e0!3m2!1sen!2sil!4v1636918992091!5m2!1sen!2sil\" width=\"600\" height=\"450\"/>",
+      "img": "String"
+    },
+    "socials": {
+      "isActive": "String",
+      "content": [
+        {
+          "url": "String",
+          "network": "string",
+          "isActive": "false"
+        },
+        { "url": "String", "name": "facebook", "isActive": "true" },
+        {
+          "url": "String",
+          "name": "instagram",
+          "isActive": "true"
+        },
+        { "url": "String", "name": "linkedin", "isActive": "true" },
+        { "url": "String", "name": "tiktok", "isActive": "true" },
+        { "url": "String", "name": "telegram", "isActive": "true" },
+        { "url": "String", "name": "email", "isActive": "true" }
+      ]
+    },
+    "iframe": {
+      "content": "string"
+    }
+  }
+}
